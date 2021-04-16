@@ -1,0 +1,22 @@
+
+
+body{
+    padding: 150px;
+    background: rgb(132, 132, 143);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+h1, h2, footer{
+
+    height: 150px;
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+
+button{
+    padding: 15px;
+    background: rgb(106, 148, 211);
+    color: white;
+}
